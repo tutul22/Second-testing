@@ -3,3 +3,9 @@ p{
     size: 80px;
     
 }
+div{
+    background-color: aqua;
+    margin: 20px;
+    padding: 20px;
+    border: 2px solid black;
+}
