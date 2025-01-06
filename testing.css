@@ -1,11 +1,10 @@
-p{
-    background-color: rebeccapurple;
-    size: 80px;
+footer > p {
+    margin-top: 50px;
+}
+nav > ul > li{
+    display: inline;
     
 }
-div{
-    background-color: aqua;
-    margin: 20px;
-    padding: 20px;
-    border: 2px solid black;
+nav li > a{
+    text-decoration: none;
 }
